@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <meta content="RWD" name="description"/>
+    <link href="index.css" rel="stylesheet"/>
+    <script src="index.js" type="module"></script>
+    <title>IPL T20</title>
+</head>
+<body>
+    <header>
+        <img class="logo" src="./assets/logo.png" alt="" />
+    </header>
+    <section id="teams-list">
+    </section>
+    <template id="team-template">
+        <article data-id="team" class="team">
+            <img data-id="logo" class="team-logo" src="">
+            <section class="team-info">
+                <p data-id="name" class="team-name" />
+                <div data-id="winning-years-container" class="team-winning-years">
+                    <svg height="16" width="16" fill="#e2d612">
+                        <path xmlns="http://www.w3.org/2000/svg" d="M10.791 1.334c.042-.417.042-.792.042-1.25H2.5c0 .458 0 .833.041 1.25H0v.416c0 3.709 4.709 6.334 5.834 6.916l-.001 1.418c0 .708-.542 1.25-1.25 1.25h-.834V13h5.834v-1.666h-.834c-.708 0-1.25-.542-1.25-1.25V8.667c1.125-.583 5.834-3.208 5.834-6.916v-.417H10.79zm-9.916.833h1.75c.166 1.875.625 3.209 1.125 4.167-1.334-1.042-2.709-2.5-2.875-4.167zm8.75 4.167c.5-.959.959-2.292 1.125-4.167h1.75c-.209 1.667-1.584 3.125-2.875 4.167z" fill-rule="evenodd"/>
+                    </svg>
+                    <p data-id="winning-years" />
+                </div>
+            </section>
+        </article>
+    </template>
+</body>
+</html>
+

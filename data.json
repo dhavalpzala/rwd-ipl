@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chennai-super-kings",
+    "teamName": "Chennai Super Kings",
+    "winningYears": [
+      2010,
+      2011,
+      2018
+    ],
+    "venue": "M. A. Chidambaram Stadium",
+    "logo": "/assets/csk.png"
+  },
+  {
+    "id": "delhi-capitals",
+    "teamName": "Delhi Capitals",
+    "winningYears": [],
+    "venue": "Feroz Shah Kotla Ground",
+    "logo": "/assets/dc.png"
+  },
+  {
+    "id": "kings-xi-punjab",
+    "teamName": "Kings XI Punjab",
+    "winningYears": [],
+    "venue": "IS Bindra Stadium.png",
+    "logo": "/assets/pk.png"
+  },
+  {
+    "id": "kolkata-knight-riders",
+    "teamName": "Kolkata Knight Riders",
+    "winningYears": [
+      2012,
+      2014
+    ],
+    "venue": "Eden Gardens",
+    "logo": "/assets/kkr.png"
+  },
+  {
+    "id": "mumbai-indians",
+    "teamName": "Mumbai Indians",
+    "winningYears": [
+      2013,
+      2015,
+      2017,
+      2019
+    ],
+    "venue": "Wankhede Stadium",
+    "logo": "/assets/mi.png"
+  },
+  {
+    "id": "rajasthan-royals",
+    "teamName": "Rajasthan Royals",
+    "winningYears": [
+      2008
+    ],
+    "venue": "Sawai Mansingh Stadium",
+    "logo": "/assets/rr.png"
+  },
+  {
+    "id": "royal-challengers-bangalore",
+    "teamName": "Royal Challengers Bangalore",
+    "winningYears": [],
+    "venue": "M. Chinnaswamy Stadium",
+    "logo": "/assets/rcb.png"
+  },
+  {
+    "id": "sunrisers-hyderabad",
+    "teamName": "Sunrisers Hyderabad",
+    "winningYears": [
+      2016
+    ],
+    "venue": "Rajiv Gandhi Intl. Cricket Stadium",
+    "logo": "/assets/srh.png"
+  }
+]

@@ -1,0 +1,87 @@
+body, p {
+    margin: 0;
+    font-family: "Source Sans Pro", sans-serif
+}
+
+header {
+    background: #19398a;
+    padding: 0 16px;
+    height: 80px;
+}
+
+.logo {
+    height: 100%;
+}
+
+.team {
+    display: flex;
+    border: 1px solid #d3d3d3;
+    margin: 8px 16px;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.chennai-super-kings {
+    background: linear-gradient(136deg,#fdb913,#f85c00);
+}
+
+.delhi-capitals {
+    background: linear-gradient(136deg,#004c93,#0358a7)
+}
+
+.kings-xi-punjab{
+    background: linear-gradient(
+            136deg,#70458f,#3d2057);
+}
+
+.kolkata-knight-riders {
+    background: linear-gradient(
+            136deg,#005da0,#003a63)
+}
+
+.mumbai-indians {
+    background: linear-gradient(
+            136deg,#aa4545,#740f0b);
+}
+
+.rajasthan-royals{
+    background: linear-gradient(
+            136deg,#2d4d9d,#172e5e);
+}
+
+.royal-challengers-bangalore {
+    background: linear-gradient(
+            136deg,#000,#464646);
+}
+
+.sunrisers-hyderabad {
+    background: linear-gradient(
+            136deg,#fb643e,#b81c25);
+}
+
+.team-info {
+    margin-left: 8px;
+}
+
+.team-name {
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+.team-logo {
+    height: 58px;
+    width: 58px;
+}
+
+.team-winning-years {
+    font-size: 12px;
+    font-weight: 700;
+    color: #e2d612;
+    background: hsla(0,0%,7%,.35);
+    display: flex;
+    padding: 8px 16px;
+    border-radius: 16px;
+    align-items: center;
+    margin-top: 8px;
+}
